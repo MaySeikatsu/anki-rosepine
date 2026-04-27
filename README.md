@@ -1,7 +1,7 @@
 # Rose Pine Anki theme
 
 ## Install
-- Download Anki [[https://ankiweb.net/shared/info/688199788][plugin]]
+- Download Anki plugin: [ReColor](https://ankiweb.net/shared/info/688199788)
 - Copy preferred theme json file
  ```shell
   $ cp <theme>.json /home/<user>/.local/share/Anki12/addons21/<addon_id>/themes
